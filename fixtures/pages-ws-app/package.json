@@ -19,7 +19,7 @@
 		"typescript": "catalog:default",
 		"vitest": "catalog:default",
 		"wrangler": "workspace:*",
-		"ws": "^8.18.0"
+		"ws": "^8.18.1"
 	},
 	"engines": {
 		"node": ">=14"
