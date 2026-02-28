@@ -44,7 +44,7 @@
 		"@types/node": "catalog:default",
 		"eslint": "catalog:default",
 		"mime": "^3.0.0",
-		"tsup": "8.3.0",
+		"tsup": "8.3.5",
 		"vitest": "~2.1.0"
 	},
 	"engines": {
